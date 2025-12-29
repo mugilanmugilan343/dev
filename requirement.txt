@@ -1,5 +1,5 @@
-FLASK
-GUNICORN
-PANDAS
-GOOGLE-GENERATIVEAI
-PYTHON-DOTENV
+flask
+gunicorn
+pandas
+google-generativeai
+python-dotenv
